@@ -1,6 +1,9 @@
 # Time Convertor
 ```
-npm i time-convertor
+npm i time-converter.js
+```
+```
+yarn i time-converter.js
 ```
 
 # Usage
@@ -9,14 +12,14 @@ npm i time-convertor
 
 ## Examples
 ```javascript
-const timeConvertor = require('time-convertor');
+const timeConverter = require('time-converter.js');
 
-const time = timeConvertor.parseTime(60000) //convert miliseconds into humanised time
+const time = timeConverter.parseTime(60000) //convert miliseconds into humanised time
 console.log(time); //return the value in string
 ```
 ```javascript
-const timeConvertor = require('time-convertor');
+const timeConverter = require('time-converter.js');
 
-const time = timeConvertor.parseMs('1 minute') //convert humanised time into miliseconds
+const time = timeConverter.parseMs('1 minute') //convert humanised time into miliseconds
 console.log(time); //return the value in integer
 ```
