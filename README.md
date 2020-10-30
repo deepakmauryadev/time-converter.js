@@ -2,9 +2,6 @@
 ```
 npm i time-converter.js
 ```
-```
-yarn i time-converter.js
-```
 
 # Usage
 - .parseTime()
