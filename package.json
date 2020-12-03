@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dee221403/time-convertor.git"
+    "url": "git+https://github.com/deepakmauryadev/time-convertor.git"
   },
   "keywords": [
     "time-converter", "time", "converter"
   ],
-  "author": "deepak_maurya",
+  "author": "deepakmauryadev",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dee221403/time-convertor/issues"
+    "url": "https://github.com/deepakmauryadev/time-convertor/issues"
   },
-  "homepage": "https://github.com/dee221403/time-convertor#readme"
+  "homepage": "https://github.com/deepakmauryadev/time-convertor#readme"
 }
