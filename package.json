@@ -1,6 +1,6 @@
 {
   "name": "time-converter.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "converts the time in human understandable time and machine understandable time too.",
   "main": "index.js",
   "scripts": {
